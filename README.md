@@ -4,3 +4,9 @@
 # 메인화면
 ![ex_screenshot](./images/a.png)
 
+# Information
+PHP 7.2.10  
+MySQL 5  
+
+# Developers
+Dipokal HHJ  
